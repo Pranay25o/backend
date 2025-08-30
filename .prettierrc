@@ -1,0 +1,9 @@
+{
+    "singleQuote": true,
+    "brakcetSpacing":true,
+    "tabWidth":2,
+    "trallingComma":"all",
+    "semi":true
+
+
+}
